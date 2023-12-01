@@ -1,0 +1,674 @@
+{
+  "Ethiopia": [
+    {
+      "breed": "Abyssinian",
+      "origin": "Natural/Standard",
+      "coat": "Short",
+      "pattern": "Ticked"
+    }
+  ],
+  "Greece": [
+    {
+      "breed": "Aegean",
+      "origin": "Natural/Standard",
+      "coat": "Semi-long",
+      "pattern": "Bi- or tri-colored"
+    }
+  ],
+  "United States": [
+    {
+      "breed": "American Curl",
+      "origin": "Mutation",
+      "coat": "Short/Long",
+      "pattern": "All"
+    },
+    {
+      "breed": "American Bobtail",
+      "origin": "Mutation",
+      "coat": "Short/Long",
+      "pattern": "All"
+    },
+    {
+      "breed": "American Shorthair",
+      "origin": "Natural",
+      "coat": "Short",
+      "pattern": "All but colorpoint"
+    },
+    {
+      "breed": "American Wirehair",
+      "origin": "Mutation",
+      "coat": "Rex",
+      "pattern": "All but colorpoint"
+    },
+    {
+      "breed": "Bambino",
+      "origin": "Crossbreed",
+      "coat": "Hairless/Furry down",
+      "pattern": ""
+    },
+    {
+      "breed": "California Spangled",
+      "origin": "Crossbreed",
+      "coat": "Short",
+      "pattern": "Spotted"
+    },
+    {
+      "breed": "Chantilly-Tiffany",
+      "origin": "",
+      "coat": "",
+      "pattern": ""
+    },
+    {
+      "breed": "Cheetoh",
+      "origin": "Hybrid Crossbreed",
+      "coat": "Short",
+      "pattern": "Spotted"
+    },
+    {
+      "breed": "Exotic Shorthair",
+      "origin": "Crossbreed",
+      "coat": "Short",
+      "pattern": "All"
+    },
+    {
+      "breed": "Highlander",
+      "origin": "Crossbreed",
+      "coat": "Short/Long",
+      "pattern": "All"
+    },
+    {
+      "breed": "Javanese",
+      "origin": "Crossbreed",
+      "coat": "Long/Short",
+      "pattern": "Colorpoint"
+    },
+    {
+      "breed": "LaPerm",
+      "origin": "Mutation",
+      "coat": "Rex",
+      "pattern": "All"
+    },
+    {
+      "breed": "Lykoi",
+      "origin": "Natural/Mutation",
+      "coat": "Partly Hairless",
+      "pattern": "Ticked"
+    },
+    {
+      "breed": "Maine Coon",
+      "origin": "Natural",
+      "coat": "Long",
+      "pattern": "All but colorpoint and ticked"
+    },
+    {
+      "breed": "Minskin",
+      "origin": "Crossbreed",
+      "coat": "Short/Hairless",
+      "pattern": "All"
+    },
+    {
+      "breed": "Munchkin",
+      "origin": "Mutation",
+      "coat": "",
+      "pattern": ""
+    },
+    {
+      "breed": "Nebelung",
+      "origin": "",
+      "coat": "Semi-long",
+      "pattern": "Solid"
+    },
+    {
+      "breed": "Ocicat",
+      "origin": "Crossbreed",
+      "coat": "Short",
+      "pattern": "Spotted"
+    },
+    {
+      "breed": "Ojos Azules",
+      "origin": "",
+      "coat": "",
+      "pattern": ""
+    },
+    {
+      "breed": "Oregon Rex",
+      "origin": "Mutation",
+      "coat": "Rex",
+      "pattern": ""
+    },
+    {
+      "breed": "Pixie-bob",
+      "origin": "Natural",
+      "coat": "Short",
+      "pattern": "Spotted"
+    },
+    {
+      "breed": "Ragamuffin",
+      "origin": "Crossbreed",
+      "coat": "Long",
+      "pattern": "All"
+    },
+    {
+      "breed": "Ragdoll",
+      "origin": "Crossbreed",
+      "coat": "Long",
+      "pattern": "Colorpoint/Mitted/Bicolor"
+    },
+    {
+      "breed": "Savannah",
+      "origin": "Hybrid",
+      "coat": "Short",
+      "pattern": "Spotted"
+    },
+    {
+      "breed": "Selkirk Rex",
+      "origin": "Mutation/Cross",
+      "coat": "Rex (Short/Long)",
+      "pattern": "All"
+    },
+    {
+      "breed": "Serengeti",
+      "origin": "Hybrid Crossbreed",
+      "coat": "Short",
+      "pattern": "Spotted"
+    },
+    {
+      "breed": "Snowshoe",
+      "origin": "Crossbreed",
+      "coat": "Short",
+      "pattern": "Colorpoint"
+    },
+    {
+      "breed": "Toyger",
+      "origin": "Crossbreed",
+      "coat": "Short",
+      "pattern": "Mackerel"
+    }
+  ],
+  "Arabian Peninsula": [
+    {
+      "breed": "Arabian Mau",
+      "origin": "Natural",
+      "coat": "Short",
+      "pattern": ""
+    }
+  ],
+  "Australia": [
+    {
+      "breed": "Australian Mist",
+      "origin": "Crossbreed",
+      "coat": "Short",
+      "pattern": "Spotted and Classic tabby"
+    },
+    {
+      "breed": "Russian White, Black and Tabby",
+      "origin": "Crossbreed",
+      "coat": "Short",
+      "pattern": ""
+    }
+  ],
+  "developed in the United Kingdom (founding stock from Asia)": [
+    {
+      "breed": "Asian",
+      "origin": "",
+      "coat": "Short",
+      "pattern": "Evenly solid"
+    }
+  ],
+  "United Kingdom": [
+    {
+      "breed": "Asian Semi-longhair",
+      "origin": "Crossbreed",
+      "coat": "Semi-long",
+      "pattern": "Solid"
+    },
+    {
+      "breed": "British Semi-longhair",
+      "origin": "",
+      "coat": "Medium",
+      "pattern": "All"
+    },
+    {
+      "breed": "British Shorthair",
+      "origin": "Natural",
+      "coat": "Short",
+      "pattern": "All"
+    },
+    {
+      "breed": "British Longhair",
+      "origin": "",
+      "coat": "Long",
+      "pattern": ""
+    },
+    {
+      "breed": "Burmilla",
+      "origin": "Crossbreed",
+      "coat": "Short/Long",
+      "pattern": ""
+    },
+    {
+      "breed": "Havana Brown",
+      "origin": "",
+      "coat": "Short",
+      "pattern": "Solid"
+    }
+  ],
+  "developed in the United States (founding stock from Thailand)": [
+    {
+      "breed": "Balinese",
+      "origin": "Crossbreed",
+      "coat": "Long",
+      "pattern": "Colorpoint"
+    }
+  ],
+  "developed in the United States (founding stock from Asia)": [
+    {
+      "breed": "Bengal",
+      "origin": "Hybrid",
+      "coat": "Short",
+      "pattern": "Spotted/Marbled"
+    },
+    {
+      "breed": "Bombay",
+      "origin": "Crossbred",
+      "coat": "Short",
+      "pattern": "Solid"
+    }
+  ],
+  "developed in France (founding stock from Burma)": [
+    {
+      "breed": "Birman",
+      "origin": "Natural",
+      "coat": "Semi Long",
+      "pattern": "Colorpoint"
+    }
+  ],
+  "Brazil": [
+    {
+      "breed": "Brazilian Shorthair",
+      "origin": "Natural",
+      "coat": "Short",
+      "pattern": "All"
+    }
+  ],
+  "Burma and Thailand": [
+    {
+      "breed": "Burmese",
+      "origin": "Natural",
+      "coat": "Short",
+      "pattern": "Solid"
+    }
+  ],
+  "France": [
+    {
+      "breed": "Chartreux",
+      "origin": "Natural",
+      "coat": "Short",
+      "pattern": "Solid"
+    },
+    {
+      "breed": "Chausie",
+      "origin": "Hybrid",
+      "coat": "Short",
+      "pattern": "Ticked"
+    },
+    {
+      "breed": "Serrade petit",
+      "origin": "Natural",
+      "coat": "Short",
+      "pattern": ""
+    }
+  ],
+  "": [
+    {
+      "breed": "Colorpoint Shorthair",
+      "origin": "",
+      "coat": "Short",
+      "pattern": ""
+    },
+    {
+      "breed": "Dwarf cat, or Dwelf",
+      "origin": "Crossbreed",
+      "coat": "",
+      "pattern": "Hairless"
+    },
+    {
+      "breed": "Napoleon",
+      "origin": "",
+      "coat": "Long/short",
+      "pattern": "Varied"
+    },
+    {
+      "breed": "Oriental Bicolor",
+      "origin": "",
+      "coat": "",
+      "pattern": "Bicolor"
+    },
+    {
+      "breed": "Oriental Shorthair",
+      "origin": "",
+      "coat": "Short",
+      "pattern": "All but colorpoint"
+    },
+    {
+      "breed": "Oriental Longhair",
+      "origin": "",
+      "coat": "Semi-long",
+      "pattern": ""
+    }
+  ],
+  "United Kingdom (England)": [
+    {
+      "breed": "Cornish Rex",
+      "origin": "Mutation",
+      "coat": "Rex",
+      "pattern": "All"
+    },
+    {
+      "breed": "Devon Rex",
+      "origin": "Mutation",
+      "coat": "Rex",
+      "pattern": "All"
+    }
+  ],
+  "United Kingdom (Isle of Man)": [
+    {
+      "breed": "Cymric or Manx Longhair",
+      "origin": "Natural/Mutation",
+      "coat": "Long",
+      "pattern": ""
+    },
+    {
+      "breed": "Manx",
+      "origin": "Mutation",
+      "coat": "Short/Long",
+      "pattern": "All but colorpoint"
+    }
+  ],
+  "Cyprus": [
+    {
+      "breed": "Cyprus",
+      "origin": "Natural",
+      "coat": "All",
+      "pattern": "All"
+    }
+  ],
+  "Russia": [
+    {
+      "breed": "Donskoy, or Don Sphynx",
+      "origin": "",
+      "coat": "Hairless",
+      "pattern": ""
+    },
+    {
+      "breed": "Mekong Bobtail",
+      "origin": "Natural/Mutation",
+      "coat": "Short",
+      "pattern": "Colorpoint"
+    },
+    {
+      "breed": "Peterbald",
+      "origin": "Crossbreed",
+      "coat": "Hairless",
+      "pattern": "All"
+    },
+    {
+      "breed": "Russian Blue",
+      "origin": "Natural",
+      "coat": "Short",
+      "pattern": "Solid"
+    },
+    {
+      "breed": "Siberian",
+      "origin": "Natural",
+      "coat": "Semi-long",
+      "pattern": "All"
+    }
+  ],
+  "China": [
+    {
+      "breed": "Dragon Li",
+      "origin": "Natural",
+      "coat": "Short",
+      "pattern": "Striped tabby"
+    }
+  ],
+  "Egypt": [
+    {
+      "breed": "Egyptian Mau",
+      "origin": "Natural",
+      "coat": "Short",
+      "pattern": "Spotted"
+    }
+  ],
+  "Finland and Sweden": [
+    {
+      "breed": "European Shorthair",
+      "origin": "Natural",
+      "coat": "Short",
+      "pattern": ""
+    }
+  ],
+  "Canada": [
+    {
+      "breed": "Foldex[4]",
+      "origin": "Crossbreed",
+      "coat": "Short",
+      "pattern": "All"
+    },
+    {
+      "breed": "Sphynx",
+      "origin": "Mutation",
+      "coat": "Hairless",
+      "pattern": "All"
+    },
+    {
+      "breed": "Tonkinese",
+      "origin": "Crossbreed",
+      "coat": "Short",
+      "pattern": "Colorpoint/Mink/Solid"
+    }
+  ],
+  "East Germany": [
+    {
+      "breed": "German Rex",
+      "origin": "Mutation",
+      "coat": "Rex",
+      "pattern": ""
+    }
+  ],
+  "United States/United Kingdom": [
+    {
+      "breed": "Himalayan, or Colorpoint Persian",
+      "origin": "Crossbreed",
+      "coat": "Long",
+      "pattern": "Colorpoint"
+    }
+  ],
+  "Japan": [
+    {
+      "breed": "Japanese Bobtail",
+      "origin": "Natural",
+      "coat": "Short/Long",
+      "pattern": "All but colorpoint and ticked"
+    }
+  ],
+  "Western Russia": [
+    {
+      "breed": "Karelian Bobtail",
+      "origin": "Natural",
+      "coat": "",
+      "pattern": ""
+    }
+  ],
+  "Thailand": [
+    {
+      "breed": "Khao Manee",
+      "origin": "Natural",
+      "coat": "Short",
+      "pattern": "Solid"
+    },
+    {
+      "breed": "Korat",
+      "origin": "Natural",
+      "coat": "Short",
+      "pattern": "Solid"
+    },
+    {
+      "breed": "Korn Ja",
+      "origin": "Natural",
+      "coat": "Short/Hairless",
+      "pattern": "Solid"
+    },
+    {
+      "breed": "Sam Sawet",
+      "origin": "Natural",
+      "coat": "Short",
+      "pattern": "Solid"
+    },
+    {
+      "breed": "Siamese",
+      "origin": "Natural",
+      "coat": "Short",
+      "pattern": "Colorpoint"
+    },
+    {
+      "breed": "Suphalak",
+      "origin": "Natural",
+      "coat": "Short",
+      "pattern": "Solid"
+    },
+    {
+      "breed": "Thai",
+      "origin": "Natural",
+      "coat": "Short",
+      "pattern": "Colorpoint"
+    },
+    {
+      "breed": "Thai Lilac",
+      "origin": "Natural",
+      "coat": "Short",
+      "pattern": "Solid"
+    }
+  ],
+  "Korea": [
+    {
+      "breed": "Korean Bobtail",
+      "origin": "Natural",
+      "coat": "Short/Long",
+      "pattern": "Colorprint"
+    }
+  ],
+  "Eastern Russia,Japan": [
+    {
+      "breed": "Kurilian Bobtail, or Kuril Islands Bobtail",
+      "origin": "Natural",
+      "coat": "Short/Long",
+      "pattern": ""
+    }
+  ],
+  "Norway": [
+    {
+      "breed": "Norwegian Forest cat",
+      "origin": "Natural",
+      "coat": "Long",
+      "pattern": "All but colorpoint"
+    }
+  ],
+  "Europe": [
+    {
+      "breed": "PerFoldæ(Experimental Breed - WCF)",
+      "origin": "Crossbreed",
+      "coat": "Long",
+      "pattern": "All"
+    }
+  ],
+  "Iran (Persia)": [
+    {
+      "breed": "Persian (Modern Persian Cat)",
+      "origin": "Crossbreed",
+      "coat": "Long",
+      "pattern": "All"
+    }
+  ],
+  "Greater Iran": [
+    {
+      "breed": "Persian (Traditional Persian Cat)",
+      "origin": "Natural",
+      "coat": "Long",
+      "pattern": "All"
+    }
+  ],
+  "Indonesia": [
+    {
+      "breed": "Raas",
+      "origin": "Natural",
+      "coat": "Short",
+      "pattern": ""
+    }
+  ],
+  "United Kingdom (Scotland)": [
+    {
+      "breed": "Scottish Fold",
+      "origin": "Natural/Mutation",
+      "coat": "Short/Long",
+      "pattern": "All"
+    }
+  ],
+  "Singapore": [
+    {
+      "breed": "Singapura",
+      "origin": "Natural",
+      "coat": "Short",
+      "pattern": "Ticked"
+    }
+  ],
+  "Kenya": [
+    {
+      "breed": "Sokoke",
+      "origin": "Natural",
+      "coat": "Short",
+      "pattern": "Classic tabby with ticking"
+    }
+  ],
+  "Somalia": [
+    {
+      "breed": "Somali",
+      "origin": "Mutation",
+      "coat": "Long",
+      "pattern": "Ticked"
+    }
+  ],
+  "Turkey": [
+    {
+      "breed": "Turkish Angora",
+      "origin": "Natural",
+      "coat": "Semi-long",
+      "pattern": "All but colorpoint"
+    }
+  ],
+  "developed in the United Kingdom (founding stock from Turkey)": [
+    {
+      "breed": "Turkish Van",
+      "origin": "Natural",
+      "coat": "Semi-long",
+      "pattern": "Van"
+    }
+  ],
+  "Ukraine": [
+    {
+      "breed": "Ukrainian Levkoy",
+      "origin": "",
+      "coat": "Hairless",
+      "pattern": ""
+    }
+  ],
+  "United States (New York)": [
+    {
+      "breed": "York Chocolate",
+      "origin": "Natural",
+      "coat": "Long",
+      "pattern": "Solid"
+    }
+  ]
+}
